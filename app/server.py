@@ -4,7 +4,7 @@ from passlib.hash import sha256_crypt
 from functools import wraps
 from flask import g
 import datetime
-from app.database import DataBase
+from database import DataBase
 
 
 app = Flask(__name__)

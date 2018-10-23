@@ -37,6 +37,8 @@ pycparser==2.19
 pytest==3.8.2
 pytest-cov==2.6.0
 pytest-forked==0.2
+pytest-html==1.19.0
+pytest-metadata==1.7.0
 pytest-ordering==0.5
 pytest-xdist==1.23.2
 python-dateutil==2.7.3
@@ -49,5 +51,6 @@ SQLAlchemy==1.2.12
 text-unidecode==1.2
 threaders==0.2.12
 urllib3==1.23
+virtualenv==16.0.0
 Werkzeug==0.14.1
 WTForms==2.2.1

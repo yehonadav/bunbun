@@ -42,7 +42,7 @@ pytest-metadata==1.7.0
 pytest-ordering==0.5
 pytest-xdist==1.23.2
 python-dateutil==2.7.3
-PyYAML==3.13
+PyYAML==5.4
 qaviton==0.0.7
 requests==2.19.1
 selenium==3.14.1
